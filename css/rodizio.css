@@ -14,14 +14,15 @@ html{
   background-color:#CACACA;
   color:#eee;
   display: flex;
-  justify-content:center;
-  align-items: center;
+  justify-content:left;
+  align-items:right;
 }
 .calendar{
   width: 45rem; 
   height:52rem;
   background-color:#616161;
   box-shadow:0.5rem 3rem rgba(0,0,0, 0.4);
+ 
 
 }
 
@@ -105,3 +106,6 @@ html{
   background-color: #393d42;
 }
 
+img{
+  
+}
